@@ -1,7 +1,7 @@
 ![logo 1](https://github.com/user-attachments/assets/7e0c90af-3220-4cf6-870a-10f0fcf960f9)
 
 # MooLen
-Moolen adalah aplikasi berbasis wab yang mendeteksi suasana hati pengguna melalui analisis ekspresi wajah.
+Moolen adalah aplikasi berbasis web yang mendeteksi suasana hati pengguna melalui analisis ekspresi wajah.
 
 github sebelumnya : https://github.com/sidiqqm/Moolen.git
 
